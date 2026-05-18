@@ -212,6 +212,68 @@ Through this project, I improved my understanding of:
 
 ---
 
+# Project Screenshots
+
+## PostgreSQL Query Execution Screenshots
+
+### Dashboard Preview
+
+<p align="center">
+  <img src="netflixdashboardd.png" width="1000">
+</p>
+
+---
+
+### Query Screenshot 1
+
+<p align="center">
+  <img src="Screenshot 2026-05-18 213056.png" width="1000">
+</p>
+
+---
+
+### Query Screenshot 2
+
+<p align="center">
+  <img src="Screenshot 2026-05-18 213111.png" width="1000">
+</p>
+
+---
+
+### Query Screenshot 3
+
+<p align="center">
+  <img src="Screenshot 2026-05-18 213119.png" width="1000">
+</p>
+
+---
+
+### Query Screenshot 4
+
+<p align="center">
+  <img src="Screenshot 2026-05-18 213129.png" width="1000">
+</p>
+
+---
+
+### Query Screenshot 5
+
+<p align="center">
+  <img src="Screenshot 2026-05-18 213138.png" width="1000">
+</p>
+
+---
+
+### Query Screenshot 6
+
+<p align="center">
+  <img src="Screenshot 2026-05-18 213147.png" width="1000">
+</p>
+
+---
+
+
+
 # Author
 
 Abhi  
